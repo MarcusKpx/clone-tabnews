@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import { up } from "infra/migrations/1730745222752_test-migration";
 import migrationRunner from "node-pg-migrate";
 import { join } from "node:path";
